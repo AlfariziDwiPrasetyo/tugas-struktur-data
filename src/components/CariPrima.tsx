@@ -42,6 +42,7 @@ const PrimaChecker: React.FC = () => {
         Aplikasi Pencari
         <span className="text-orange-500"> Bilangan Prima</span>
       </h2>
+      <p className="text-red-400 mt-2">Pakai mode Dekstop agar lebih nyaman</p>
       <div className="flex items-center justify-center mt-12">
         <div>
           <label>Dari : </label>
