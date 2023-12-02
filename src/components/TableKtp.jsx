@@ -7,7 +7,7 @@ const TableComp = ({ datas }) => {
       <Table.Header>
         <Table.Row>
           <Table.ColumnHeaderCell>Nama</Table.ColumnHeaderCell>
-          <Table.ColumnHeaderCell>Nomor Induk Mahasiswa</Table.ColumnHeaderCell>
+          <Table.ColumnHeaderCell>Nomor Induk Penduduk</Table.ColumnHeaderCell>
           <Table.ColumnHeaderCell>Fakultas</Table.ColumnHeaderCell>
         </Table.Row>
       </Table.Header>
